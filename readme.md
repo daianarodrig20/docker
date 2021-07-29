@@ -1,7 +1,7 @@
 ## Primero para asegurarse de que no haya ninguna version corriendo de docker corro la linea 
 sudo apt-get remove docker docker-engine docker.io containerd runc
 
-## Para instalarlo debemos intalar estas dependecias
+## Para instalarlo debemos instalar estas dependecias
  sudo apt-get update
  sudo apt-get install \
      apt-transport-https \
